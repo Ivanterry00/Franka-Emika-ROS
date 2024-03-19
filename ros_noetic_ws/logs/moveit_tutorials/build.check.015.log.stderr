@@ -1,0 +1,9 @@
+[31m[1mCMake Error[0m at /home/ivan/Desktop/ros_noetic_ws/src/moveit_tutorials/doc/pick_place/CMakeLists.txt:2 (add_executable):
+  add_executable cannot create target "pick_place_tutorial" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/home/ivan/Desktop/ros_noetic_ws/src/moveit_tutorials/doc/pick_place".
+  See documentation for policy CMP0002 for more details.
+
+
+make: *** [Makefile:2336: cmake_check_build_system] Error 1

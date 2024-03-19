@@ -1,0 +1,36 @@
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_tutorials
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/ivan/Desktop/ros_noetic_ws/devel;/opt/ros/noetic
+[36m--[0m This workspace overlays: /home/ivan/Desktop/ros_noetic_ws/devel;/opt/ros/noetic
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python3
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/lib/python3/dist-packages/em.py
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/ivan/Desktop/ros_noetic_ws/build/moveit_tutorials/test_results
+[36m--[0m Forcing gtest/gmock from source, though one was otherwise available.
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found version "3.8.10")
+[36m--[0m Using Python nosetests: /usr/bin/nosetests3
+[36m--[0m catkin 0.8.10
+[36m--[0m BUILD_SHARED_LIBS is on
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[36m--[0m Installing devel-space wrapper /home/ivan/Desktop/ros_noetic_ws/src/moveit_tutorials/doc/move_group_python_interface/scripts/move_group_python_interface_tutorial.py to /home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_tutorials/lib/moveit_tutorials
+[31m[1mCMake Error[0m at /home/ivan/Desktop/ros_noetic_ws/src/moveit_tutorials/doc/pick_place/CMakeLists.txt:6 (add_executable):
+  add_executable cannot create target "pick_place_tutorial" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/home/ivan/Desktop/ros_noetic_ws/src/moveit_tutorials/doc/pick_place".
+  See documentation for policy CMP0002 for more details.
+
+
+[31m[1mCMake Error[0m at /home/ivan/Desktop/ros_noetic_ws/src/moveit_tutorials/doc/pick_place/CMakeLists.txt:7 (target_link_libraries):
+  Cannot specify link libraries for target "another_executable" which is not
+  built by this project.
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/ivan/Desktop/ros_noetic_ws/build/moveit_tutorials/CMakeFiles/CMakeOutput.log".
+See also "/home/ivan/Desktop/ros_noetic_ws/build/moveit_tutorials/CMakeFiles/CMakeError.log".
+make: *** [Makefile:2336: cmake_check_build_system] Error 1
