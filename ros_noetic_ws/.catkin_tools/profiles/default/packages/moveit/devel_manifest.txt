@@ -1,2 +1,0 @@
-moveit/moveit
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit/cmake.lock /home/ivan/Desktop/ros_noetic_ws/devel/./cmake.lock

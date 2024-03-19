@@ -1,5 +1,0 @@
-moveit_resources/pr2_description
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_resources_pr2_description/cmake.lock /home/ivan/Desktop/ros_noetic_ws/devel/./cmake.lock
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_resources_pr2_description/share/moveit_resources_pr2_description/cmake/moveit_resources_pr2_descriptionConfig-version.cmake /home/ivan/Desktop/ros_noetic_ws/devel/share/moveit_resources_pr2_description/cmake/moveit_resources_pr2_descriptionConfig-version.cmake
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_resources_pr2_description/share/moveit_resources_pr2_description/cmake/moveit_resources_pr2_descriptionConfig.cmake /home/ivan/Desktop/ros_noetic_ws/devel/share/moveit_resources_pr2_description/cmake/moveit_resources_pr2_descriptionConfig.cmake
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_resources_pr2_description/lib/pkgconfig/moveit_resources_pr2_description.pc /home/ivan/Desktop/ros_noetic_ws/devel/lib/pkgconfig/moveit_resources_pr2_description.pc

@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target my_controller_node[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/my_controller_node.dir/src/moveit_pick_and_place.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/ivan/Desktop/ros_noetic_ws/devel/.private/my_controller/lib/my_controller/my_controller_node[0m
-[100%] Built target my_controller_node

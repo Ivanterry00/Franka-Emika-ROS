@@ -1,7 +1,0 @@
-moveit/moveit_ros/robot_interaction
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_ros_robot_interaction/cmake.lock /home/ivan/Desktop/ros_noetic_ws/devel/./cmake.lock
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_ros_robot_interaction/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig-version.cmake /home/ivan/Desktop/ros_noetic_ws/devel/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig-version.cmake
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_ros_robot_interaction/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig.cmake /home/ivan/Desktop/ros_noetic_ws/devel/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig.cmake
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_ros_robot_interaction/lib/libmoveit_robot_interaction.so /home/ivan/Desktop/ros_noetic_ws/devel/lib/libmoveit_robot_interaction.so
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_ros_robot_interaction/lib/libmoveit_robot_interaction.so.1.1.13 /home/ivan/Desktop/ros_noetic_ws/devel/lib/libmoveit_robot_interaction.so.1.1.13
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_ros_robot_interaction/lib/pkgconfig/moveit_ros_robot_interaction.pc /home/ivan/Desktop/ros_noetic_ws/devel/lib/pkgconfig/moveit_ros_robot_interaction.pc

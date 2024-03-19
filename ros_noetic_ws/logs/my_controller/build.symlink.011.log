@@ -1,5 +1,0 @@
-Linked: (/home/ivan/Desktop/ros_noetic_ws/devel/.private/my_controller/share/my_controller/cmake/my_controllerConfig-version.cmake, /home/ivan/Desktop/ros_noetic_ws/devel/share/my_controller/cmake/my_controllerConfig-version.cmake)
-Linked: (/home/ivan/Desktop/ros_noetic_ws/devel/.private/my_controller/share/my_controller/cmake/my_controllerConfig.cmake, /home/ivan/Desktop/ros_noetic_ws/devel/share/my_controller/cmake/my_controllerConfig.cmake)
-Symlinking /home/ivan/Desktop/ros_noetic_ws/devel/lib/my_controller/my_controller
-Linked: (/home/ivan/Desktop/ros_noetic_ws/devel/.private/my_controller/lib/my_controller/my_controller_node, /home/ivan/Desktop/ros_noetic_ws/devel/lib/my_controller/my_controller_node)
-Linked: (/home/ivan/Desktop/ros_noetic_ws/devel/.private/my_controller/lib/pkgconfig/my_controller.pc, /home/ivan/Desktop/ros_noetic_ws/devel/lib/pkgconfig/my_controller.pc)

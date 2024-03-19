@@ -1,5 +1,0 @@
-Symlinking /home/ivan/Desktop/ros_noetic_ws/devel/share/franka_visualization/cmake/franka_visualizationConfig-version.cmake
-Symlinking /home/ivan/Desktop/ros_noetic_ws/devel/share/franka_visualization/cmake/franka_visualizationConfig.cmake
-Symlinking /home/ivan/Desktop/ros_noetic_ws/devel/lib/pkgconfig/franka_visualization.pc
-Symlinking /home/ivan/Desktop/ros_noetic_ws/devel/lib/franka_visualization/robot_joint_state_publisher
-Symlinking /home/ivan/Desktop/ros_noetic_ws/devel/lib/franka_visualization/gripper_joint_state_publisher

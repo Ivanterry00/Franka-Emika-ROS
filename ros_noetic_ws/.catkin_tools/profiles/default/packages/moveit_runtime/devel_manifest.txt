@@ -1,2 +1,0 @@
-moveit/moveit_runtime
-/home/ivan/Desktop/ros_noetic_ws/devel/.private/moveit_runtime/cmake.lock /home/ivan/Desktop/ros_noetic_ws/devel/./cmake.lock
