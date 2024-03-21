@@ -14,8 +14,8 @@ and follow the instructions provided in the links to install them.
 
 You also will need to install the following packages:
 
-- [libfranka](https://github.com/frankaemika/libfranka)
-- [franka_ros](https://github.com/frankaemika/franka_ros)
+- [libfranka](https://github.com/frankaemika/libfranka) (recommended version 0.13.3)
+- [franka_ros](https://github.com/frankaemika/franka_ros) (recommended version 0.10.1)
 
 following the instructions provided in this [Franka Control Interface (FCI)](https://frankaemika.github.io/docs/installation_linux.html).
 
