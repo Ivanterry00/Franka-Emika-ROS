@@ -35,3 +35,8 @@ catkin_make
 ## Usage
 
 To do... 
+
+
+## Notes
+- In franka_ros, even if you use fr3 as robot, the names of links and joints are always panda_link and panda_joint
+- When installing a live kernel, create a new Ubuntu group and use it to edit /etc/security/limits.conf as written at the end of the Linux installation section in the Franka Control interface documentation
