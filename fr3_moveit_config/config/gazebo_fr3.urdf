@@ -760,10 +760,10 @@
     <transmission name="trans_fr3_finger_joint1">
         <type>transmission_interface/SimpleTransmission</type>
         <joint name="fr3_finger_joint1">
-            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+            <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
         </joint>
         <actuator name="fr3_finger_joint1_motor">
-            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+            <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
             <mechanicalReduction>1</mechanicalReduction>
         </actuator>
     </transmission>

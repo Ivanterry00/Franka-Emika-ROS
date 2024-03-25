@@ -41,7 +41,7 @@ To do...
 - In franka_ros, even if you use fr3 as robot, the names of links and joints are always panda_link and panda_joint
 - When installing a live kernel, create a new Ubuntu group and use it to edit /etc/security/limits.conf as written at the end of the Linux installation section in the Franka Control interface documentation
 - Remember that there are different planner to use on RViz (omp, chomp etc...)
-- 
+- Lanciare il controllore del robot di basso livello, lanciare il file launch ros_control.launch nel pkg fr3_moveit_config, lanciare il file demo.launch con ros_control e in fine il nodo prova da lab_control_pkg
 
 ## Useful Commands for franka_ros Testing
 To implements the franka_gripper_node for interfacing a gripper from ROS.

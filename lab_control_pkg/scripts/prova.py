@@ -135,10 +135,10 @@ def pick_object(name, arm, gripper, actual_pose):
     pose.orientation.w = actual_pose.orientation.w
     
     reach_pose(arm, pose)
-    open_gripper(gripper=gripper)
+    # open_gripper(gripper=gripper)
     pose.position.z -= 0.1
     reach_pose(arm, pose)
-    close_gripper(gripper=gripper)
+    # close_gripper(gripper=gripper)
     # arm.attach_object(name)
     pose.position.z += 0.3
     reach_pose(arm, pose)
@@ -160,7 +160,7 @@ def place_object(name, arm, gripper, actual_pose):
     pose.orientation.w = actual_pose.orientation.w
 
     reach_pose(arm, pose)
-    open_gripper(gripper=gripper)
+    # open_gripper(gripper=gripper)
     # arm.detach_object(name)
 
 def cartesian_path(arm, waypoints):
@@ -198,7 +198,7 @@ def main():
     arm.set_num_planning_attempts(45)
 
     add_collision_and_visual_objects()
-    open_gripper(gripper)
+    # open_gripper(gripper)
     pick_object(name='target_1', arm=arm, gripper=gripper, actual_pose=actual_pose)   
     place_object(name='target_2', arm=arm, gripper=gripper, actual_pose=actual_pose)
     reach_named_position(arm=arm, target='ready')
